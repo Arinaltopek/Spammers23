@@ -21,7 +21,7 @@ cd Spammers23
 
 sh Ari.sh
 
-### <h4 align="center">🔰 Wellcome to my github 🔰</h4>
+### <h4 align="center">🔰 Spammers23 🔰</h4>
 ### 📱 Social Media 📱
 - <a href="https://github.com/Arinaltopek">Github</a>
 - <a href="https://api.whatsapp.com/send?phone=6281212459969">WhatsApp</a>
